@@ -1,0 +1,259 @@
+/********** mobile devices only **********/
+@media (max-width: 767px) {
+body{
+	font-family:"comic sans MS";
+	font-size: 16px,
+}
+h1{
+	color:black;
+	text-align:center;
+}
+
+#maincontainer{
+	position:absolute;
+	top:80px;
+}
+
+#container1 {
+	position:relative;
+	top:0px;
+	left:26px;
+	border:3px solid;
+	width: 590px;
+	background-color:#C0C0C0;
+	padding-left: 5px;
+	padding-right:5px;
+	margin-bottom: 15px;
+	box-sizing: border-box;
+}
+
+#container2 {
+	position:relative;
+	top:0px;
+	left:26px;
+	border:3px solid;
+	width: 590px;
+	background-color:#C0C0C0;
+	padding-left: 5px;
+	padding-right:5px;
+	margin-bottom: 15px;
+	box-sizing: border-box;
+}
+#container3 {
+	position:relative;
+	top:0px;
+	left:26px;
+	border:3px solid;
+	width: 590px;
+	background-color:#C0C0C0;
+	padding-left: 5px;
+	padding-right:5px;
+	margin-bottom: 15px;
+	box-sizing: border-box;
+}
+
+#h21, #h22, #h23 {
+	position:relative;
+	top:-19px;
+	left:482px;
+	width:100px;
+	border:3px solid;
+	border-color:black;
+	font-size:125%;
+	text-align:center;
+	box-sizing: border-box;
+}
+
+#h21{
+	background-color:pink;
+	color:white;
+}
+
+#h22{
+	background-color:red;
+	color:white;
+}
+#h23{
+	background-color:green;
+	color:white;
+}
+}
+
+/********** medium devices only **********/
+@media (min-width: 768px) and (max-width: 991px){
+body{
+	font-family:"comic sans MS";
+	font-size: 12px,
+}
+h1{
+	color:black;
+    font-size: 175%;	
+	text-align:center;
+}
+
+#maincontainer{
+	position:absolute;
+	top:80px;
+}
+
+#container1 {
+	position:relative;	
+	top:0px;
+	left:10px;
+	border:3px solid;
+	width: 350px;
+	background-color:#C0C0C0;
+	padding-left: 5px;
+	padding-right:5px;
+	box-sizing: border-box;
+}
+
+#container2 {
+	position:relative;	
+	top:-223px;
+	left:390px;
+	border:3px solid;
+	width: 350px;
+	background-color:#C0C0C0;
+	padding-left: 5px;
+	padding-right:5px;
+	box-sizing: border-box;
+}
+#container3 {
+	position:relative;
+	top:-190px;
+	left:10px;
+	width:730px;
+	border:3px solid;
+	background-color:#C0C0C0;
+	padding-left: 5px;
+	padding-right:5px;
+	box-sizing: border-box;
+}
+
+#h21, #h22 {
+	position:relative;
+	top:-20px;
+	left:242px;
+	width:100px;
+	border:3px solid;
+	border-color:black;
+	font-size:125%;
+	text-align:center;
+	box-sizing: border-box;
+}
+
+#h23 {
+	position:relative;
+	top:-20px;
+	left:622px;
+	width:100px;
+	border:3px solid;
+	border-color:black;
+	font-size:125%;
+	text-align:center;
+	box-sizing: border-box;
+}
+
+#h21{
+	background-color:pink;
+	color:white;
+}
+
+#h22{
+	background-color:red;
+	color:white;
+}
+#h23{
+	background-color:green;
+	color:white;
+}
+}
+
+
+/********** Large devices only **********/
+@media (min-width: 992px) {
+body{
+	font-family:"comic sans MS";
+	font-size: 5px,
+}
+h1{
+	color:black;
+    font-size: 175%;	
+	text-align:center;
+}
+
+#maincontainer{
+	position:absolute;
+	top:80px;
+}
+
+#container1 {
+	position:relative;
+	top:0px;
+	left:20px;
+	border:3px solid;
+	width: 300px;
+	background-color:#C0C0C0;
+	padding-left: 5px;
+	padding-right:5px;
+	box-sizing: border-box;
+}
+
+#container2 {
+	position:relative;	
+	top:-246px;
+	left:330px;
+	border:3px solid;
+	width: 300px;
+	background-color:#C0C0C0;
+	padding-left: 5px;
+	padding-right:5px;
+	box-sizing: border-box;
+}
+#container3 {
+	position:relative;
+	top:-492px;
+	left:640px;
+	width:300px;
+	border:3px solid;
+	background-color:#C0C0C0;
+	padding-left: 5px;
+	padding-right:5px;
+	box-sizing: border-box;
+}
+
+#h21, #h22, #h23 {
+	position:relative;
+	top:-20px;
+	left:192px;
+	width:100px;
+	border:3px solid;
+	border-color:black;
+	font-size:125%;
+	text-align:center;
+	box-sizing: border-box;
+}
+
+#h21{
+	background-color:pink;
+	color:white;
+}
+
+#h22{
+	background-color:red;
+	color:white;
+}
+#h23{
+	background-color:green;
+	color:white;
+}
+}
+
+
+
+
+
+
+
+
